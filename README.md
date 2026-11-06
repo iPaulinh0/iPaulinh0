@@ -44,13 +44,6 @@ Desenvolvo projetos pessoais e soluções práticas com o objetivo de aprimorar 
 Confira meus repositórios:
 [github.com/iPaulinh0?tab=repositories](https://github.com/iPaulinh0?tab=repositories)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=iPaulinh0&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPaulinh0&layout=compact&theme=tokyonight"/>
-</div>
-
 ## 📫 Contato
 
 <p align="left">
@@ -64,9 +57,4 @@ Confira meus repositórios:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
-**LinkedIn:** [paulo-victor](https://www.linkedin.com/in/paulo-victor-208954162/)
-
-**E-mail:** pauloaraujo2607@gmail.com
-
 ---
