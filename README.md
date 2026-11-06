@@ -1,6 +1,6 @@
 ### Opa, tudo bem? | Hi there 👋
 
-- 🌱 Estou aprendendo atualmente | I’m currently learning: ReactJS
+- 🌱 Estou aprendendo atualmente | I’m currently learning: Java
 - 📫 Meu contato | My contact: pauloaraujo2607@gmail.com
 - 😄 Pronomes | Pronouns: ele/dele | he/him
 
