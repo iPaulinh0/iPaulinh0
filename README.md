@@ -1,4 +1,4 @@
-# 👨‍💻 Paulo Victor
+# 👨‍💻 Paulo Araujo
 
 ### Full-Stack Developer | Java; Spring Boot; Docker; AWS & SQL
 
