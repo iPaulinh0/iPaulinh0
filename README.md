@@ -1,27 +1,72 @@
-### Opa, tudo bem? | Hi there 👋
+# 👨‍💻 Paulo Victor
 
-- 🌱 Estou aprendendo atualmente | I’m currently learning: Java
-- 📫 Meu contato | My contact: pauloaraujo2607@gmail.com
-- 😄 Pronomes | Pronouns: ele/dele | he/him
+### Full-Stack Developer | Java; Spring Boot; Docker; AWS & SQL
 
-<div>
+## 👋 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, interessado em desenvolvimento Full-Stack, com foco em Back-end.
+
+Atualmente trabalho em uma indústria do setor automotivo, onde aplico meus conhecimentos em programação para desenvolver soluções que otimizam processos e facilitam as atividades do dia a dia na linha de produção.
+
+Estou aprofundando meus conhecimentos em Java e Spring Boot, além de possuir familiaridade com TypeScript, Node.js e React.js. Também tenho interesse em tecnologias de infraestrutura e cloud, como Docker e AWS.
+
+Busco evoluir constantemente e transformar desafios reais em soluções tecnológicas.
+
+## 🛠️ Tecnologias
+
+**Back-end**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts"/>
+</p>
+
+**Front-end**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts"/>
+</p>
+
+**DevOps & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws"/>
+</p>
+
+## 📚 Atualmente estudando
+
+- Java e Programação Orientada a Objetos
+- Spring Boot e desenvolvimento de APIs
+- Arquitetura e estruturação de aplicações
+- Docker e AWS
+- Boas práticas de programação
+
+## 🚀 Projetos
+
+Desenvolvo projetos pessoais e soluções práticas com o objetivo de aprimorar minhas habilidades e resolver problemas do cotidiano.
+
+Confira meus repositórios:
+[github.com/iPaulinh0?tab=repositories](https://github.com/iPaulinh0?tab=repositories)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=iPaulinh0&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPaulinh0&layout=compact&theme=tokyonight"/>
+</div>
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/paulo-victor-208954162/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pauloaraujo2607@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
   <a href="https://github.com/iPaulinh0">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iPaulinh0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPaulinh0&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Paulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
- ##
-  
- <div> 
-  <a href="https://www.linkedin.com/in/paulo-victor-lima-de-araujo-208954162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   
-   ![Snake animation](https://github.com/iPaulinh0/iPaulinh0/blob/output/github-contribution-grid-snake.svg)
-   
-  </div> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+**LinkedIn:** [paulo-victor](https://www.linkedin.com/in/paulo-victor-208954162/)
+
+**E-mail:** pauloaraujo2607@gmail.com
+
+---
